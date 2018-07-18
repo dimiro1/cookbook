@@ -1,4 +1,4 @@
-# How to access the database without expsigin the implementation details?
+# How to access the database without exposing implementation details?
 
 Using repositories
 
